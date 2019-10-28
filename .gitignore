@@ -1,0 +1,8 @@
+cmake-build-*
+build
+tags
+.DS_Store
+
+#repo specific
+bios/*.bin
+test/**
