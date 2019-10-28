@@ -6,6 +6,8 @@ ongoing generic utilities support library for my emulator.
 git clone https://github.com/valerino/emushared
 cd emushared
 mkdir build && cd build
+cmake ..
+make
 
 # setup environment variables to be used in external projects
 export EMUSHARED_INCLUDE_PATH=/path/to/emushared
